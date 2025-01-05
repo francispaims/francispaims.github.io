@@ -3,7 +3,6 @@ layout: post
 title: Paano na biglang liko
 subtitle: Avoid your intrusive thoughts
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
